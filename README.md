@@ -1,8 +1,6 @@
 # NIC-Scheduler
 
-<p align="center">
-  <img src="logo.png" alt="NIC-Scheduler Logo" width="200"/>
-</p>
+
 
 **網路卡排程管理工具 - 輕鬆排程網路卡的啟用與禁用時間**
 
