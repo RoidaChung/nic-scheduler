@@ -1,4 +1,3 @@
-# GitHub 專案雙語指南：NIC-Scheduler (精簡版)
 
 ## README.md
 
