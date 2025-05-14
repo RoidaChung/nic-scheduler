@@ -68,7 +68,7 @@ NIC-Scheduler is a powerful Network Interface Card scheduling tool that allows y
 ### Quick Start
 
 1. Clone repository and install dependencies
-   ```bash
+
    git clone https://github.com/RoidaChung/nic-scheduler.git
    cd nic-scheduler
    pip install -r requirements.txt
