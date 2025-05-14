@@ -14,7 +14,7 @@ Network Interface Card Scheduler - Easily schedule the enabling and disabling of
 
 ### Quick Start
 1. Clone repository and install dependencies
-   ```bash
+
    git clone https://github.com/RoidaChung/nic-scheduler.git
    cd nic-scheduler
    pip install -r requirements.txt
