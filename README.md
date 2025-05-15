@@ -1,7 +1,9 @@
 
 ```markdown
+
+
 <div align="center">
-  <img src="screenshots/nic-scheduler-logo.png" alt="NIC-Scheduler Logo" width="200"/>
+
   <h1>NIC-Scheduler</h1>
   <p><strong>網路卡排程管理工具 - 輕鬆排程網路卡的啟用與禁用時間</strong></p>
   <p>
@@ -16,11 +18,10 @@
     <a href="#chinese">中文</a>
   </p>
 </div>
-
 <a name="chinese"></a>
 ## 中文
 
-NIC-Scheduler 是一個強大的網路卡排程管理工具，讓您可以輕鬆設定網路卡的啟用與禁用時間，無論是單次排程還是週期性排程，都能滿足您的需求。
+NIC-Scheduler 是一個網路卡排程管理工具，讓您可以輕鬆設定網路卡的啟用與禁用時間，無論是單次排程還是週期性排程，都能滿足您的需求。
 
 ### 功能特色
 
