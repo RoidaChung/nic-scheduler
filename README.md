@@ -36,11 +36,11 @@ NIC-Scheduler 是一個網路卡排程管理工具，讓您可以輕鬆設定網
 
 - [使用手冊](docs/user-guide.zh-TW.md)
 - [安裝指南](docs/installation.zh-TW.md)
-- [常見問題](docs/faq.md)
+
 
 ---
 
-<a name="english"></a>
+
 ## English
 
 NIC-Scheduler is a powerful Network Interface Card scheduling tool that allows you to easily set enable and disable times for your network cards, whether for one-time schedules or recurring patterns.
@@ -74,7 +74,7 @@ NIC-Scheduler is a powerful Network Interface Card scheduling tool that allows y
 
 - [User Guide](docs/user-guide.en.md)
 - [Installation Guide](docs/installation.en.md)
-- [FAQ](docs/faq.md)
+
 
 ## Contributing
 
