@@ -1,22 +1,30 @@
-# NIC-Scheduler
 
+```markdown
+<div align="center">
+  <img src="screenshots/nic-scheduler-logo.png" alt="NIC-Scheduler Logo" width="200"/>
+  <h1>NIC-Scheduler</h1>
+  <p><strong>網路卡排程管理工具 - 輕鬆排程網路卡的啟用與禁用時間</strong></p>
+  <p>
+    <a href="#features">功能特色</a> |
+    <a href="#quick-start">快速開始</a> |
+    <a href="#documentation">文檔</a> |
+    <a href="#contributing">貢獻</a> |
+    <a href="#license">授權</a>
+  </p>
+  <p>
+    <a href="#english">English</a> |
+    <a href="#chinese">中文</a>
+  </p>
+</div>
 
-
-**網路卡排程管理工具 - 輕鬆排程網路卡的啟用與禁用時間**
-
-[功能特色](#features) | [快速開始](#quick-start) | [文檔](#documentation) | [貢獻](#contributing) | [授權](#license)
-
-[English](#english) | [中文](#chinese)
-
+<a name="chinese"></a>
 ## 中文
 
-NIC-Scheduler 是一個強大的網路卡排程管理工具，讓您可以輕鬆設定網路卡的啟用與禁用時間，無論是單次排程還是週期性排程。
+NIC-Scheduler 是一個強大的網路卡排程管理工具，讓您可以輕鬆設定網路卡的啟用與禁用時間，無論是單次排程還是週期性排程，都能滿足您的需求。
 
 ### 功能特色
 
 - **單次排程**：設定特定日期的網路卡啟用/禁用時間
-- **週期性排程**：按週幾設定重複的網路卡啟用/禁用時間
-
 - **週期性排程**：按週幾設定重複的網路卡啟用/禁用時間
 - **使用者管理**：支援多使用者登入，包含管理員與一般使用者權限
 - **日誌系統**：詳細記錄所有操作與排程執行情況
@@ -91,7 +99,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-
-```
-
