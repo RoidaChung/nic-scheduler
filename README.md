@@ -2,22 +2,7 @@
 ```markdown
 
 
-<div align="center">
 
-  <h1>NIC-Scheduler</h1>
-  <p><strong>網路卡排程管理工具 - 輕鬆排程網路卡的啟用與禁用時間</strong></p>
-  <p>
-    <a href="#features">功能特色</a> |
-    <a href="#quick-start">快速開始</a> |
-    <a href="#documentation">文檔</a> |
-    <a href="#contributing">貢獻</a> |
-    <a href="#license">授權</a>
-  </p>
-  <p>
-    <a href="#english">English</a> |
-    <a href="#chinese">中文</a>
-  </p>
-</div>
 <a name="chinese"></a>
 ## 中文
 
